@@ -1,6 +1,6 @@
 //leetcode 414   find the third largest number
 
-const nums = [3,1,4,5,7,1,5,2];
+const nums = [3,1,4,5,7,1,8,5,2];
 
 function thirdlargest(nums){
 
