@@ -1,4 +1,5 @@
 //leetcode 442  find all duplicates in an array
+//medium
 
 let nums = [4,3,2,7,8,2,3,1];
 
